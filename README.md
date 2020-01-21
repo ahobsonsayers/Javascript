@@ -4,7 +4,7 @@ Files for help getting started with javascript
 ## Setup Linting and Formatting:
 
 Install Linter and formatter
-- `npm install --dev eslint prettier eslint-config-prettier eslint-plugin-prettier`
+- `npm install --only=dev eslint prettier eslint-config-prettier eslint-plugin-prettier`
 
 Initilise ESLint
 - `npx eslint --init`
