@@ -7,13 +7,13 @@ Files for help getting started with javascript
 - **If using npm in wsl run ```npm config set unsafe-perm=true```**
 
 Install Linter and formatter
-- `npm install --only=dev eslint prettier eslint-config-prettier eslint-plugin-prettier`
+- `npm install --only=dev --save eslint prettier eslint-config-prettier eslint-plugin-prettier`
 
 Initilise ESLint
 - `npx eslint --init`
 
 For installing Airbnb (if needed and not done through the ESLint init):
-- `npx install-peerdeps --only=dev eslint-config-airbnb-base`
+- `npx install-peerdeps --only=dev --save eslint-config-airbnb-base`
 
 ### .eslintrc.json
 
