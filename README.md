@@ -3,7 +3,8 @@ Files for help getting started with javascript
 
 ## Setup Linting and Formatting:
 
-**If using npm in wsl run ```npm config set unsafe-perm=true```** 
+- **Ensure npx is installed using ```npm install -g npx```**
+- **If using npm in wsl run ```npm config set unsafe-perm=true```**
 
 Install Linter and formatter
 - `npm install --only=dev eslint prettier eslint-config-prettier eslint-plugin-prettier`
