@@ -13,7 +13,7 @@ Initilise ESLint
 - `npx eslint --init`
 
 For installing Airbnb (if needed and not done through the ESLint init):
-- `npx install-peerdeps --only=dev --save eslint-config-airbnb-base`
+- `npx install-peerdeps --dev --save eslint-config-airbnb-base`
 
 ### .eslintrc.json
 
